@@ -8,3 +8,9 @@ camera.start_recording('home/pi/video.h264')
 sleep(10)
 Camera.stop_recording()
 Camera.stop_preview()
+
+
+
+
+print('Hello')
+
